@@ -17302,7 +17302,7 @@ Vt:function Vt(){},
 a99:function(){var s=0,r=P.a8(t.z),q
 var $async$a99=P.a4(function(a,b){if(a===1)return P.a5(b,r)
 while(true)switch(s){case 0:s=2
-return P.ac(U.a97("env/.env"),$async$a99)
+return P.ac(U.a97("env/env"),$async$a99)
 case 2:if(!$.acf)H.e(new A.uE())
 P.nc($.a7H.j(0,"CHECKER"))
 if($.ao==null)N.agR()
